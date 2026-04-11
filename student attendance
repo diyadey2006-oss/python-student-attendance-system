@@ -1,0 +1,9 @@
+students = []
+while True:
+  name = input("Enter student name (or exit): ")
+  if name.lower() == "exist":
+    break
+    students.append(name)
+    print ("Attendance List:")
+    for s in students:
+      print(s)
