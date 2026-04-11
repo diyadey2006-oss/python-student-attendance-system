@@ -1,8 +1,8 @@
 # python-student-attendance-system
 
-📋 Student Attendance Manager (Python)
+ Student Attendance Manager (Python)
 
-🚀 Project Overview
+ Project Overview
 
 The Student Attendance Manager is a Python-based application designed to manage and track student attendance efficiently.
 It allows users to record attendance, store data, and generate attendance summaries automatically.
@@ -10,18 +10,18 @@ It allows users to record attendance, store data, and generate attendance summar
 This project demonstrates practical use of Python programming, file handling, and basic data management concepts.
 
 
-✨ Features
+ Features
 
-- ✅ Add new students
-- ✅ Mark attendance
-- ✅ Store attendance records
-- ✅ Automatic attendance calculation
-- ✅ View attendance summary
-- ✅ Simple and beginner-friendly interface
+   Add new students
+-   Mark attendance
+-  Store attendance records
+-  Automatic attendance calculation
+-  View attendance summary
+-  Simple and beginner-friendly interface
 
 
 
-🛠️ Technologies Used
+ Technologies Used
 
 - Python
 - CSV/File Handling
@@ -29,19 +29,19 @@ This project demonstrates practical use of Python programming, file handling, an
 
 
 
-📂 Project Structure
+Project Structure
 
-student-attendance-manager/
-│
-├── main.py
-├── attendance.csv
-├── requirements.txt
-├── project-report.pdf
-└── screenshots/
+student-attendance-manager
+
+─ main.py
+─ attendance.csv
+─ requirements.txt
+─ project-report.pdf
+─ screenshots
 
 
 
-⚙️ How to Run the Project
+ How to Run the Project
 
 1. Clone the repository:
 
@@ -56,7 +56,7 @@ cd python-student-attendance-system
 python main.py
 
 
-🎯 Learning Outcomes
+Learning Outcomes
 
 - Understanding Python project structure
 - Working with files and datasets
@@ -65,7 +65,7 @@ python main.py
 
 
 
-🌱 Future Improvements
+ Future Improvements
 
 - GUI interface using Tkinter
 - Database integration
@@ -74,7 +74,7 @@ python main.py
 
 
 
-👩‍💻 Author
+ Author
 
 Anwesha Dey
 B.Tech Electrical Engineering Student | Aspiring Data Science & AI Enthusiast
