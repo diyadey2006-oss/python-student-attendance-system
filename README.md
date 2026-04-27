@@ -65,8 +65,11 @@ Project Demo ( Output Screenshot)
 Learning Outcomes
 
  Understanding Python project structure
+ 
  Working with files and datasets
+ 
  Applying programming to real-world problems
+ 
  Version control using Git & GitHub
 
 
@@ -74,8 +77,11 @@ Learning Outcomes
  Future Improvements
 
  GUI interface using Tkinter
+ 
  Database integration
+ 
  Login authentication
+ 
  Web-based attendance system
 
 
