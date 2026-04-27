@@ -2,6 +2,9 @@
 
  Student Attendance Manager (Python)
 
+ Problem Statement
+ Manual attendance tracking in classrooms is time- consuming and prone to errors.This project helps to mantain attendance recording, storage and summary using      python authomatically.
+
  Project Overview
 
 The Student Attendance Manager is a Python-based application designed to manage and track student attendance efficiently.
@@ -13,19 +16,19 @@ This project demonstrates practical use of Python programming, file handling, an
  Features
 
    Add new students
--   Mark attendance
--  Store attendance records
--  Automatic attendance calculation
--  View attendance summary
--  Simple and beginner-friendly interface
+   Mark attendance
+   Store attendance records
+   Automatic attendance calculation
+   View attendance summary
+   Simple and beginner-friendly interface
 
 
 
  Technologies Used
 
-- Python
-- CSV/File Handling
-- Basic Data Structures
+ Python
+ CSV/File Handling
+ Basic Data Structures
 
 
 
@@ -33,11 +36,11 @@ Project Structure
 
 student-attendance-manager
 
-─ main.py
-─ attendance.csv
-─ requirements.txt
-─ project-report.pdf
-─ screenshots
+main.py
+attendance.csv
+requirements.txt
+project-report.pdf
+screenshots
 
 
 
@@ -58,19 +61,19 @@ python main.py
 
 Learning Outcomes
 
-- Understanding Python project structure
-- Working with files and datasets
-- Applying programming to real-world problems
-- Version control using Git & GitHub
+ Understanding Python project structure
+ Working with files and datasets
+ Applying programming to real-world problems
+ Version control using Git & GitHub
 
 
 
  Future Improvements
 
-- GUI interface using Tkinter
-- Database integration
-- Login authentication
-- Web-based attendance system
+ GUI interface using Tkinter
+ Database integration
+ Login authentication
+ Web-based attendance system
 
 
 
