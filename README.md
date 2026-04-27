@@ -1,3 +1,4 @@
+<img width="1152" height="648" alt="program output" src="https://github.com/user-attachments/assets/7ba0ff21-1af4-4c7f-89cf-1ac7eb1fe00d" />
 # python-student-attendance-system
 
  Student Attendance Manager (Python)
@@ -57,6 +58,9 @@ cd python-student-attendance-system
 3. Run the program:
 
 python main.py
+
+Project Demo ( Output Screenshot)
+<img width="1152" height="648" alt="program output" src="https://github.com/user-attachments/assets/ba5455e9-f229-4923-933a-ced4919f22db" />
 
 
 Learning Outcomes
