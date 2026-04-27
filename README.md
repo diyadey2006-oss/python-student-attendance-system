@@ -62,7 +62,7 @@ Project Demo ( Output Screenshot)
 <img width="1152" height="648" alt="program output" src="https://github.com/user-attachments/assets/ba5455e9-f229-4923-933a-ced4919f22db" />
 
 
-Learning Outcomes
+LEARNING OUTCOMES
 
  Understanding Python project structure
  
@@ -74,7 +74,7 @@ Learning Outcomes
 
 
 
- Future Improvements
+ FUTURE IMPROVEMENTS
 
  GUI interface using Tkinter
  
