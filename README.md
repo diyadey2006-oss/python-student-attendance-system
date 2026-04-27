@@ -83,4 +83,4 @@ GitHub:
 https://github.com/diyadey2006-oss
 LinkedIn: https://www.linkedin.com/in/anwesha-dey-03b16b36a
 
-⭐ If you like this project, feel free to star the repository!
+If you like this project, feel free to star the repository!
