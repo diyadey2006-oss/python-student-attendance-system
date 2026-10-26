@@ -89,7 +89,7 @@ LEARNING OUTCOMES
  Author
 
 Anwesha Dey
-B.Tech Electrical Engineering Student | Aspiring Data Science & AI Enthusiast
+B.Tech Computer Science and Engineering Student | Aspiring Data Science & AI Enthusiast
 
 GitHub: 
 https://github.com/diyadey2006-oss
